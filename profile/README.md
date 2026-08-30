@@ -1,6 +1,6 @@
 # Miskatonic Systems
 
-**Applied research and advanced systems engineering for synthetic technical institutions.**
+**Applied research and advanced systems engineering company developing a synthetic technical institution and using it to conduct multidisciplinary R&D.**
 
 Miskatonic Systems is building an AI-native R&D institution in which evidence, memory, work, authority, execution, evaluation, recovery, and organizational learning are engineered as durable systems rather than left entirely to meetings, inboxes, chat sessions, and individual memory.
 
